@@ -1,0 +1,17 @@
+/* Estilos para el cuerpo */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Estilos para el título */
+h1 {
+    color: #333;
+    font-size: 48px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
